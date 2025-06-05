@@ -20,7 +20,7 @@ export default defineAppConfig({
   seo: {
     title: 'Nuxt portfolio',
     description: 'Nuxt portfolio',
-    url: '',
+    url: '/articles/simplicity-is-the-ultimate-sophistication.jpg',
     lang: 'en',
   },
   ui: {
